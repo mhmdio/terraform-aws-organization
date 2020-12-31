@@ -1,7 +1,7 @@
 Terraform AWS Organisation
 ==========================
 
-Note: this is a small footprint Based on InfraBlcok 
+Note: this is a small footprint Based on infrablocks work.
 A Terraform module for managing an AWS Organisation.
 
 The Organisation deployment consists of:
